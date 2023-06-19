@@ -1,3 +1,3 @@
 # Estudo do Segundo Trimestre
-## Tema da sala: Filme(Cinema)
-Victor Hugo - 33
+## Tema da Sala: Filme-(Cinema)
+Leonardo de Mattos Ribeiro - N°21

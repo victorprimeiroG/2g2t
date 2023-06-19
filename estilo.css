@@ -22,37 +22,7 @@
     height: 50px;
     background-color: blue;
 }
-.vermelho2 {
-    width: 50px;
-    height: 50px;
-    background-color: red;
-}
-.verde2 {
-    width: 50px;
-    height: 50px;
-    background-color: green;
-}
-.azul2 {
-    width: 50px;
-    height: 50px;
-    background-color: blue;
-}
-.vermelho3 {
-    width: 50px;
-    height: 50px;
-    background-color: red;
-}
-.verde3 {
-    width: 50px;
-    height: 50px;
-    background-color: green;
-}
-.azul3 {
-    width: 50px;
-    height: 50px;
-    background-color: blue;
-}
-.vermelho4 {
+.vermelho {
     width: 50px;
     height: 50px;
     background-color: red;
@@ -67,78 +37,103 @@
     height: 50px;
     background-color: blue;
 }
-.vermelho2 {
+.vermelho {
     width: 50px;
     height: 50px;
     background-color: red;
 }
-.verde2 {
+.verde {
     width: 50px;
     height: 50px;
     background-color: green;
-}
-.azul2 {
-    width: 50px;
-    height: 50px;
-    background-color: blue;
-}
-.vermelho3 {
-    width: 50px;
-    height: 50px;
-    background-color: red;
-}
-.verde3 {
-    width: 50px;
-    height: 50px;
-    background-color: green;
-}
-.azul3 {
-    width: 50px;
-    height: 50px;
-    background-color: blue;
-}
-.vermelho4 {
-    width: 50px;
-    height: 50px;
-    background-color: red;
 }
 .azul {
     width: 50px;
     height: 50px;
     background-color: blue;
 }
-.vermelho2 {
+.vermelho {
     width: 50px;
     height: 50px;
     background-color: red;
 }
-.verde2 {
+.verde {
     width: 50px;
     height: 50px;
     background-color: green;
 }
-.azul2 {
+.azul {
     width: 50px;
     height: 50px;
     background-color: blue;
 }
-.vermelho3 {
+.vermelho {
     width: 50px;
     height: 50px;
     background-color: red;
 }
-.verde3 {
+.verde {
     width: 50px;
     height: 50px;
     background-color: green;
 }
-.azul3 {
+.azul {
     width: 50px;
     height: 50px;
     background-color: blue;
 }
-.vermelho4 {
+.vermelho {
     width: 50px;
     height: 50px;
     background-color: red;
+}
+.verde {
+    width: 50px;
+    height: 50px;
+    background-color: green;
+}
+.azul {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
+.vermelho {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+.verde {
+    width: 50px;
+    height: 50px;
+    background-color: green;
+}
+.azul {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
+.vermelho {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+.verde {
+    width: 50px;
+    height: 50px;
+    background-color: green;
+}
+.azul {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
+.vermelho {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+.horizontal {
+    width: 50px;
+    height: 50px;
+    background-color: green;
 }
